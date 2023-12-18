@@ -1,16 +1,4 @@
-# flutter_application_1
+Let's start to learn flutter. just create a new flutter project and check my main.dart! 
 
-A new Flutter project.
+![image](https://github.com/taylanozgurertas/maximillian_flutter_course_note_1/assets/92798120/3c0c9fa2-1a55-41ee-9afe-1beab3051ccd)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
